@@ -1,0 +1,17 @@
+{
+  "name": "乾燥機數據紀錄器",
+  "short_name": "乾燥機紀錄",
+  "description": "用於記錄和分析乾燥機運作數據的應用程式。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e3e8e3",
+  "theme_color": "#3e524b",
+  "icons": [
+    {
+      "src": "./img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
